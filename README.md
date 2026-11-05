@@ -8,7 +8,7 @@ Bem-vindo ao meu portfólio prático de estudos! Aqui documento a minha jornada 
 
 | Diretório / Ficheiro | Descrição |
 | :--- | :--- |
-| [`script/sys_info_check.sh`](roteiros/sys_info_check.sh) | Script em Bash para monitorização de recursos do sistema (Disco, RAM, Uptime). |
+| [`scripts/sys_info_check.sh`](roteiros/sys_info_check.sh) | Script em Bash para monitorização de recursos do sistema (Disco, RAM, Uptime). |
 | [`labs/lab-01-vpc-setup.md`](labs/lab-01-vpc-setup.md) | Documentação técnica do laboratório de redes em nuvem (VPC e Subnets). |
 
 ---
